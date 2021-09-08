@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ChangeForADollar {
     public static void main (String args []) {
-       // int money = 1;
+        int money = 1;
         System.out.println("Enter the amount of pennies you have:");
         Scanner scanner = new Scanner(System.in);
         int pennies = scanner.nextInt();
